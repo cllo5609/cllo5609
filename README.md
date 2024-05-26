@@ -1,7 +1,11 @@
 <h2 align="center">Hi 👋, I'm Clint!</h2>
 
-- 🔭 I’m currently working on **CompTIA Security+ Cert**
-- 🌱 I’m currently learning **Java, C#, .NET**
+- 🔭 I’m currently working on:
+  
+    Personal project to process, analyze, and represent geospatial data pertaining
+    to native plant populations on local open spaces using Python and Bash to build ArcGIS maps
+  
+- 🌱 I’m currently learning **Java, AWS for Data Engineering**
 
 - 📫 How to reach me **clintonr.lohr@gmail.com**
 
